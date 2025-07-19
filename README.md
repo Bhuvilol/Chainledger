@@ -112,22 +112,7 @@ The application is deployed on Vercel with both frontend and backend services.
 ### Environment Variables
 
 Set the following environment variable in your Vercel dashboard:
-- `VITE_API_URL`: Your backend API URL (e.g., `https://your-backend.vercel.app/api`)
-
-## 🧹 Project Cleanup
-
-This project has been optimized by removing:
-- Unused components and assets
-- Unnecessary dependencies
-- Temporary files and build artifacts
-- Redundant configuration files
-
-### Benefits of Cleanup:
-- **Reduced Bundle Size**: Removed unused dependencies and assets
-- **Faster Development**: Less files to navigate and maintain
-- **Cleaner Structure**: Focused on core functionality
-- **Better Performance**: Smaller application footprint
-- **Easier Maintenance**: Only essential files remain
+- `VITE_API_URL`: Your backend API URL (`https://backend1-d2hagqro6-bhuvilols-projects.vercel.app/`)
 
 ## 🔧 Development
 
@@ -159,13 +144,5 @@ npm run build
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🆘 Support
-
-For issues and questions:
-1. Check the [Issues](https://github.com/your-repo/chainledger/issues) page
-2. Create a new issue with detailed information
-3. Include steps to reproduce the problem
-
----
 
 **Chainledger** - Where blockchain meets inventory management! 🚀
