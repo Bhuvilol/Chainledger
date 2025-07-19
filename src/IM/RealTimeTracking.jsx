@@ -4,8 +4,8 @@ import StatusIndicator from "./RealTimeTracking/StatusIndicator";
 import ActivityItem from "./RealTimeTracking/ActivityItem";
 import InventoryCard from "./RealTimeTracking/InventoryCard";
 
-// Add API base URL
-const API_BASE = 'http://localhost:5000/api';
+// Add API base URL - use environment variable or fallback to localhost
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
 
 // Add this fallback data at the top of your file
 const FALLBACK_INVENTORY = [

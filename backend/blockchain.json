@@ -1,7 +1,7 @@
 [
   {
     "index": 0,
-    "timestamp": "2025-06-30T17:21:53.554Z",
+    "timestamp": "2025-07-19T18:54:35.683Z",
     "data": {
       "product": "Genesis",
       "change": 0,
@@ -11,57 +11,5 @@
     },
     "previousHash": "0",
     "hash": "genesis_hash"
-  },
-  {
-    "index": 1,
-    "timestamp": "2025-06-30T17:25:06.135Z",
-    "data": {
-      "product": "Toys",
-      "change": 400,
-      "note": "master canteen",
-      "user": "admin",
-      "status": "confirmed"
-    },
-    "previousHash": "genesis_hash",
-    "hash": "5b510742"
-  },
-  {
-    "index": 2,
-    "timestamp": "2025-06-30T17:26:34.288Z",
-    "data": {
-      "product": "Home Goods",
-      "change": 500,
-      "note": "igadkhc",
-      "user": "admin",
-      "status": "confirmed"
-    },
-    "previousHash": "5b510742",
-    "hash": "1a258b5e"
-  },
-  {
-    "index": 3,
-    "timestamp": "2025-06-30T17:26:42.852Z",
-    "data": {
-      "product": "Bulk Groceries",
-      "change": 767,
-      "note": "mvbj",
-      "user": "admin",
-      "status": "confirmed"
-    },
-    "previousHash": "1a258b5e",
-    "hash": "-2966be96"
-  },
-  {
-    "index": 4,
-    "timestamp": "2025-06-30T17:26:56.729Z",
-    "data": {
-      "product": "Office Supplies",
-      "change": -767,
-      "note": "hkxjc",
-      "user": "admin",
-      "status": "rejected"
-    },
-    "previousHash": "-2966be96",
-    "hash": "-72c45593"
   }
 ]
